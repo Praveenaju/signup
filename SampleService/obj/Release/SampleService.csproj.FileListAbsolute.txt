@@ -1,0 +1,6 @@
+C:\Users\muthu\Desktop\Service\WCFService\SampleService\SampleService\SampleService\bin\SampleService.dll.config
+C:\Users\muthu\Desktop\Service\WCFService\SampleService\SampleService\SampleService\bin\SampleService.dll
+C:\Users\muthu\Desktop\Service\WCFService\SampleService\SampleService\SampleService\bin\SampleService.pdb
+C:\Users\muthu\Desktop\Service\WCFService\SampleService\SampleService\SampleService\obj\Release\SampleService.csprojResolveAssemblyReference.cache
+C:\Users\muthu\Desktop\Service\WCFService\SampleService\SampleService\SampleService\obj\Release\SampleService.dll
+C:\Users\muthu\Desktop\Service\WCFService\SampleService\SampleService\SampleService\obj\Release\SampleService.pdb

@@ -1,0 +1,30 @@
+G:\Sample\WCF Service\ServiceSampleJSON\SampleService\SampleService\bin\SampleService.dll.config
+G:\Sample\WCF Service\ServiceSampleJSON\SampleService\SampleService\bin\SampleService.dll
+G:\Sample\WCF Service\ServiceSampleJSON\SampleService\SampleService\bin\SampleService.pdb
+G:\Sample\WCF Service\ServiceSampleJSON\SampleService\SampleService\obj\Debug\SampleService.csprojResolveAssemblyReference.cache
+G:\Sample\WCF Service\ServiceSampleJSON\SampleService\SampleService\obj\Debug\SampleService.dll
+G:\Sample\WCF Service\ServiceSampleJSON\SampleService\SampleService\obj\Debug\SampleService.pdb
+D:\Deva\WCFService\SampleService\SampleService\SampleService\obj\Debug\SampleService.csprojResolveAssemblyReference.cache
+D:\Deva\WCFService\SampleService\SampleService\SampleService\obj\Debug\SampleService.dll
+D:\Deva\WCFService\SampleService\SampleService\SampleService\obj\Debug\SampleService.pdb
+D:\Deva\WCFService\SampleService\SampleService\SampleService\bin\SampleService.dll.config
+D:\Deva\WCFService\SampleService\SampleService\SampleService\bin\SampleService.dll
+D:\Deva\WCFService\SampleService\SampleService\SampleService\bin\SampleService.pdb
+D:\Praveen\Service\WCFService\SampleService\SampleService\SampleService\bin\SampleService.dll.config
+D:\Praveen\Service\WCFService\SampleService\SampleService\SampleService\bin\SampleService.dll
+D:\Praveen\Service\WCFService\SampleService\SampleService\SampleService\bin\SampleService.pdb
+D:\Praveen\Service\WCFService\SampleService\SampleService\SampleService\obj\Debug\SampleService.csprojResolveAssemblyReference.cache
+D:\Praveen\Service\WCFService\SampleService\SampleService\SampleService\obj\Debug\SampleService.dll
+D:\Praveen\Service\WCFService\SampleService\SampleService\SampleService\obj\Debug\SampleService.pdb
+C:\Users\muthu\Desktop\Service\WCFService\SampleService\SampleService\SampleService\bin\SampleService.dll.config
+C:\Users\muthu\Desktop\Service\WCFService\SampleService\SampleService\SampleService\bin\SampleService.dll
+C:\Users\muthu\Desktop\Service\WCFService\SampleService\SampleService\SampleService\bin\SampleService.pdb
+C:\Users\muthu\Desktop\Service\WCFService\SampleService\SampleService\SampleService\obj\Debug\SampleService.csprojResolveAssemblyReference.cache
+C:\Users\muthu\Desktop\Service\WCFService\SampleService\SampleService\SampleService\obj\Debug\SampleService.dll
+C:\Users\muthu\Desktop\Service\WCFService\SampleService\SampleService\SampleService\obj\Debug\SampleService.pdb
+D:\projects\SampleService\SampleService\bin\SampleService.dll.config
+D:\projects\SampleService\SampleService\bin\SampleService.dll
+D:\projects\SampleService\SampleService\bin\SampleService.pdb
+D:\projects\SampleService\SampleService\obj\Debug\SampleService.csprojResolveAssemblyReference.cache
+D:\projects\SampleService\SampleService\obj\Debug\SampleService.dll
+D:\projects\SampleService\SampleService\obj\Debug\SampleService.pdb
